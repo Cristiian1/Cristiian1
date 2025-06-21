@@ -1,7 +1,3 @@
-<!--Header Image-->
-<p align="center">
-  <img src="https://i.imgur.com/a0GX9Qz.png" height="200"/>
-</p>
 
 
 <!--Header Name GIF or Animation-->
@@ -18,22 +14,23 @@
 
 
 
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Cristian Camilo Ruiz Rivera
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Cristian Camilo Ruiz
+
 
 <p>
-    <a href="https://web.whatsapp.com/#3174102877"target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WhatsApp-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/mazarafa" alt="Medium Badge"></a> 
-    <a href="https://www.linkedin.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mazarafa/" alt="LinkedIn Badge"></a> 
-    <a href="https://facebook.com/mazarafa7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-facebook-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/mazarafa7" alt="Facebook Badge"></a> 
-    <a href="https://instagram.com/mazarafa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mazarafa/" alt="Instagram Badge"></a>
+    <a href="https://web.whatsapp.com/#3174102877"target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WhatsApp-20711f?style=flat-square&amp;labelColor=20711f&amp;logo=WhatsApp&logoColor=green&link=https://web.whatsapp.com/#3174102877" alt="WhatsApp"></a>
+    <a href="https://www.linkedin.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=linkedin&logoColor=blue&link=www.linkedin.com/in/camilo-ruiz-2aa655204" alt="linkedin"></a> 
+    <a href="https://facebook.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-facebook-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/" alt="Facebook"></a> 
+    <a href="(https://www.tiktok.com/@cristianruiz203?is_from_webapp=1&sender_device=pc)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-tiktok-000000?style=flat&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@cristianruiz203?is_from_webapp=1&sender_device=pc"alt="tiktok"></a>
     <!-- <a href="rafinha.dev@outlook.com"><img scr="https://img.shields.io/badge/-rafinha.dev-c14438?style=flat&logo=Outlook&logoColor=white&link=mailto:rafinha.dev@outlook.com" alt="Outlook Badge"></a> -->
 </p>
 
-<p>Tecnologo de Análisis yDesarrollo de Software , conexperiencia como Técnico enSistemas. Especializado en elmanejo de bases de datos SQLcon lenguaje de programacionpython, Node.js, Django, Msysql,Xampp, adicionalmente conexperiencia de lenguajes deprogramación como, HTML , CSS, JavaScript , framework comoReact, Angular, Bootstrap . Poseoconocimientos en herramientasde otfimatica y desarrollo móvil.Soy proactivo, con capacidadpara desenvolverme en equipo.</p>
+<p>Tecnologo de Análisis y Desarrollo de Software , con experiencia como Técnico enSistemas. Especializado en el manejo de bases de datos SQL con lenguaje de programacion python, Node.js, Django, Msysql, Xampp, adicionalmente con experiencia de lenguajes de programación como, HTML , CSS, JavaScript , framework como React, Angular, Bootstrap . Poseo conocimientos en herramientas de otfimatica y desarrollo móvil.Soy proactivo, con capacidad para desenvolverme en equipo.</p>
 
 
 ### Habilidades:
 
-- 👨Habilidades en aprendizaje profundo con lenguajes de programacion, realizando codificación competitiva, analizar estructuras de datos y algoritmos.
+- Aprendizaje profundo con lenguajes de programacion, realizando codificación competitiva, conocimiento para analizar estructuras de datos y algoritmos.
   
  <br>
 
@@ -45,22 +42,23 @@
   
   <br>
   
-- 📝 &nbsp; Checkout my [Resume](https://manumanoj.me/Resume.pdf).
+- 📝 &nbsp; mas informacion revelante [Click](https://empleabilidad.talentotechregion3.com.co/perfil?id=1680)
 
 <br>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contactar </h3>
+<br>
 
 
 <div align="center">
   <a href="mailto:keyanandydelgado@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.facebook.com/keyandelgado.fajanoy">
-    <img alt="Facebook" title="Connect on Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="www.linkedin.com/in/camilo-ruiz-2aa655204"">
+    <img alt="linkedin" title="Connect on Linkedin" src="https://img.shields.io/badge/-Linkedin-1877F2?style=for-the-badge&logo=Linkelin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/https.keyan/">
-    <img alt="Instagram" title "Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://web.whatsapp.com/#3174102877">
+    <img alt="WhatsApp" title "chat WhatsApp" src="https://img.shields.io/badge/-WhatsApp-20711f?style=for-the-badge&logo=WhatsApp&logoColor=green"/>
   </a>
 </div>
 
@@ -89,9 +87,7 @@
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <br><br>
@@ -108,12 +104,8 @@
   <a href="https://expressjs.com" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="ExpressJS" height="40"/></code>
   </a>
-  <a href="https://nestjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nest.svg" alt="NestJS" height="40"/></code>
-  </a>
-  <a href="https://spring.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg" alt="Spring" height="40"/></code>
-  </a>
+  
+  
 </p>
 
 <br>
@@ -144,5 +136,5 @@
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Gracias+por+visitarnos!+✌️;+Deja+tu+mensage+al+3174102877+WhatsApp!;para+poder+Atenderte+:)">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=800&height=80&duration=8000&lines=Gracias+por+visitarnos!+✌️;+tu+mensaje+3174102877+WhatsApp;para+mas+informacion+📲">
 </h3>
