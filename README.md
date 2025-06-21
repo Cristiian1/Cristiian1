@@ -2,7 +2,7 @@
 
 <!--Header Name GIF or Animation-->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=80&width=600&lines=Welcome+Visitante" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=80&width=600&lines=Welcome+Ruiz" alt="Title"></img>
 </div>
 <br>
 
@@ -25,7 +25,11 @@
     <!-- <a href="rafinha.dev@outlook.com"><img scr="https://img.shields.io/badge/-rafinha.dev-c14438?style=flat&logo=Outlook&logoColor=white&link=mailto:rafinha.dev@outlook.com" alt="Outlook Badge"></a> -->
 </p>
 
-<p>Tecnologo de Análisis y Desarrollo de Software , con experiencia como Técnico enSistemas. Especializado en el manejo de bases de datos SQL con lenguaje de programacion python, Node.js, Django, Msysql, Xampp, adicionalmente con experiencia de lenguajes de programación como, HTML , CSS, JavaScript , framework como React, Angular, Bootstrap . Poseo conocimientos en herramientas de otfimatica y desarrollo móvil.Soy proactivo, con capacidad para desenvolverme en equipo.</p>
+Desarrollador Junior especializado en Python con experiencia en tecnologías back-end y front-end. Actualmente enfocado en el desarrollo de aplicaciones web robustas con Django y RestAPI, y en soluciones de ingeniería de datos para el procesamiento y análisis de información.
+
+Experiencia previa con tecnologías como, Angular, React y PHP, lo que me proporciona una visión integral del desarrollo de software. Competente en bases de datos relacionales (PostgreSQL, SQL Server, MySQL) y en desarrollo móvil con Flutter.
+
+Manejo herramientas de control de versiones (Git, GitHub, GitLab) y metodologías ágiles (Scrum). Me caracterizo por mis habilidades en comunicación, trabajo en equipo y orientación hacia la entrega de soluciones efectivas y de alta calidad.
 
 
 ### Habilidades:
